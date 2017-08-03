@@ -1,2 +1,4 @@
+from func import send_messages
+
 if __name__ == '__main__':
-    print('Hello')
+    send_messages()
